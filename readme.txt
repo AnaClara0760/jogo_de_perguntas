@@ -1,0 +1,1 @@
+E um projeto de estudo em python, que e um jogo de perguntas sobre assuntos gerais foi feito no colab nele e possivel escolher uma opção e se a opção escolhida for a correta você ganha pontos no jogo e avança para o proximo bloco de perguntas.
